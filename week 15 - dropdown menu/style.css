@@ -1,0 +1,31 @@
+.pointer { 
+    cursor: pointer;
+}
+.progress { 
+    cursor: progress;
+}
+.crosshair { 
+    cursor: crosshair;
+}
+.help {
+    cursor: help;
+}
+
+.sized-box {
+    width: 20vw;
+}
+
+.hovering-button {
+    background-color: rgb(223, 204, 251);
+    border: none;
+    color: white;
+    padding: 10vh 10vw;
+    font-size: large;
+}
+
+.hovering-button:hover::after{
+    background-color: rgb(208, 191, 255);
+
+    content: ' Love U 😳';
+}
+

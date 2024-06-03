@@ -1,0 +1,435 @@
+.rectangle {
+    background-color: plum;
+    width: 20%;
+    height: 20%;
+    aspect-ratio: 1/1;
+    transition: width 3s;
+    transition-timing-function: ease-in-out;
+    margin: 3%;
+    border-radius: 3%;
+    padding: 4%;
+}
+
+.rectangle2 {
+    background-color: plum;
+    width: 20%;
+    height: 20%;
+    aspect-ratio: 1/1;
+    transition: width 3s;
+    transition-timing-function: ease-in-out;
+    margin: 3%;
+    border-radius: 3%;
+    padding: 4%;
+}
+
+.rectangle3 {
+    background-color: plum;
+    width: 20%;
+    height: 20%;
+    aspect-ratio: 1/1;
+    transition: width 3s;
+    transition-timing-function: ease-in-out;
+    margin: 3%;
+    border-radius: 3%;
+    padding: 4%;
+}
+
+.rectangle4 {
+    background-color: plum;
+    width: 20%;
+    height: 20%;
+    aspect-ratio: 1/1;
+    transition: width 3s;
+    transition-timing-function: ease-in-out;
+    margin: 3%;
+    border-radius: 3%;
+    padding: 4%;
+}
+
+.rectangle5 {
+    background-color: plum;
+    width: 20%;
+    height: 20%;
+    aspect-ratio: 1/1;
+    transition: width 3s;
+    transition-timing-function: ease-in-out;
+    margin: 3%;
+    border-radius: 3%;
+    padding: 4%;
+}
+
+.rectangle6 {
+    background-color: plum;
+    width: 20%;
+    height: 20%;
+    aspect-ratio: 1/1;
+    transition: width 3s;
+    transition-timing-function: ease-in-out;
+    margin: 3%;
+    border-radius: 3%;
+    padding: 4%;
+}
+
+.rectangle7 {
+    background-color: plum;
+    width: 20%;
+    height: 20%;
+    aspect-ratio: 1/1;
+    transition: width 3s;
+    transition-timing-function: ease-in-out;
+    margin: 3%;
+    border-radius: 3%;
+    padding: 4%;
+}
+
+.rectangle8 {
+    background-color: plum;
+    width: 20%;
+    height: 20%;
+    aspect-ratio: 1/1;
+    transition: width 3s;
+    transition-timing-function: ease-in-out;
+    margin: 3%;
+    border-radius: 3%;
+    padding: 4%;
+}
+
+.rectangle9 {
+    background-color: plum;
+    width: 20%;
+    height: 20%;
+    aspect-ratio: 1/1;
+    transition: width 3s;
+    transition-timing-function: ease-in-out;
+    margin: 3%;
+    border-radius: 3%;
+    padding: 4%;
+}
+
+.rectangle10 {
+    background-color: plum;
+    width: 20%;
+    height: 20%;
+    aspect-ratio: 1/1;
+    transition: width 3s;
+    transition-timing-function: ease-in-out;
+    margin: 3%;
+    border-radius: 3%;
+    padding: 4%;
+}
+
+.rectangle11 {
+    background-color: plum;
+    width: 20%;
+    height: 20%;
+    aspect-ratio: 1/1;
+    transition: width 3s;
+    transition-timing-function: ease-in-out;
+    margin: 3%;
+    border-radius: 3%;
+    padding: 4%;
+}
+
+.rectangle12 {
+    background-color: plum;
+    width: 20%;
+    height: 20%;
+    aspect-ratio: 1/1;
+    transition: width 3s;
+    transition-timing-function: ease-in-out;
+    margin: 3%;
+    border-radius: 3%;
+    padding: 4%;
+}
+
+.rectangle13 {
+    background-color: plum;
+    width: 20%;
+    height: 20%;
+    aspect-ratio: 1/1;
+    transition: width 3s;
+    transition-timing-function: ease-in-out;
+    margin: 3%;
+    border-radius: 3%;
+    padding: 4%;
+}
+
+.rectangle14 {
+    background-color: plum;
+    width: 20%;
+    height: 20%;
+    aspect-ratio: 1/1;
+    transition: width 3s;
+    transition-timing-function: ease-in-out;
+    margin: 3%;
+    border-radius: 3%;
+    padding: 4%;
+}
+
+.rectangle15 {
+    background-color: plum;
+    width: 20%;
+    height: 20%;
+    aspect-ratio: 1/1;
+    transition: width 3s;
+    transition-timing-function: ease-in-out;
+    margin: 3%;
+    border-radius: 3%;
+    padding: 4%;
+}
+
+.rectangle16 {
+    background-color: plum;
+    width: 20%;
+    height: 20%;
+    aspect-ratio: 1/1;
+    transition: width 3s;
+    transition-timing-function: ease-in-out;
+    margin: 3%;
+    border-radius: 3%;
+    padding: 4%;
+}
+
+.rectangle17 {
+    background-color: plum;
+    width: 20%;
+    height: 20%;
+    aspect-ratio: 1/1;
+    transition: width 3s;
+    transition-timing-function: ease-in-out;
+    margin: 3%;
+    border-radius: 3%;
+    padding: 4%;
+}
+
+.rectangle18 {
+    background-color: plum;
+    width: 20%;
+    height: 20%;
+    aspect-ratio: 1/1;
+    transition: width 3s;
+    transition-timing-function: ease-in-out;
+    margin: 3%;
+    border-radius: 3%;
+    padding: 4%;
+}
+
+.rectangle19 {
+    background-color: plum;
+    width: 20%;
+    height: 20%;
+    aspect-ratio: 1/1;
+    transition: width 3s;
+    transition-timing-function: ease-in-out;
+    margin: 3%;
+    border-radius: 3%;
+    padding: 4%;
+}
+
+.rectangle20 {
+    background-color: plum;
+    width: 20%;
+    height: 20%;
+    aspect-ratio: 1/1;
+    transition: width 3s;
+    transition-timing-function: ease-in-out;
+    margin: 3%;
+    border-radius: 3%;
+    padding: 4%;
+}
+
+.rectangle:hover{
+    width: 40%;
+    height: 40%;
+    background-image:url(xiao.jpg);
+    background-size: contain;
+    color:bisque;
+}
+
+.rectangle2:hover{
+    width: 40%;
+    height: 40%;
+    background-image:url(xiao2.jpg);
+    background-size: contain;
+    color:bisque;
+}
+
+.rectangle3:hover{
+    width: 40%;
+    height: 40%;
+    background-image:url(xiao3.jpg);
+    background-size: contain;
+    color:bisque;
+}
+
+.rectangle4:hover{
+    width: 40%;
+    height: 40%;
+    background-image:url(xiao4.jpg);
+    background-size: contain;
+    color:bisque;
+}
+
+.rectangle5:hover{
+    width: 40%;
+    height: 40%;
+    background-image:url(xiao5.jpg);
+    background-size: contain;
+    color:bisque;
+}
+
+.rectangle6:hover{
+    width: 40%;
+    height: 40%;
+    background-image:url(xiao6.jpg);
+    background-size: contain;
+    color:bisque;
+}
+
+.rectangle7:hover{
+    width: 40%;
+    height: 40%;
+    background-image:url(xiao7.png);
+    background-size: contain;
+    color:bisque;
+}
+
+.rectangle8:hover{
+    width: 40%;
+    height: 40%;
+    background-image:url(ganyu.jpg);
+    background-size: contain;
+    color:bisque;
+}
+
+.rectangle9:hover{
+    width: 40%;
+    height: 40%;
+    background-image:url(ganyu2.jpg);
+    background-size: contain;
+    color:bisque;
+}
+
+.rectangle10:hover{
+    width: 40%;
+    height: 40%;
+    background-image:url(ganyu3.jpg);
+    background-size: contain;
+    color:bisque;
+}
+
+.rectangle11:hover{
+    width: 40%;
+    height: 40%;
+    background-image:url(kubo.jpg);
+    background-size: contain;
+    color:bisque;
+}
+
+.rectangle12:hover{
+    width: 40%;
+    height: 40%;
+    background-image:url(kubo2.jpg);
+    background-size: contain;
+    color:bisque;
+}
+
+.rectangle13:hover{
+    width: 40%;
+    height: 40%;
+    background-image:url(kubo3.jpg);
+    background-size: contain;
+    color:bisque;
+}
+
+.rectangle14:hover{
+    width: 40%;
+    height: 40%;
+    background-image:url(kubo4.jpg);
+    background-size: contain;
+    color:bisque;
+}
+
+.rectangle15:hover{
+    width: 40%;
+    height: 40%;
+    background-image:url(kubo5.jpg);
+    background-size: contain;
+    color:bisque;
+}
+
+.rectangle16:hover{
+    width: 40%;
+    height: 40%;
+    background-image:url(kubo6.jpg);
+    background-size: contain;
+    color:bisque;
+}
+
+.rectangle17:hover{
+    width: 40%;
+    height: 40%;
+    background-image:url(kubo7.jpg);
+    background-size: contain;
+    color:bisque;
+}
+
+.rectangle18:hover{
+    width: 40%;
+    height: 40%;
+    background-image:url(kubo8.jpg);
+    background-size: contain;
+    color:bisque;
+}
+
+.rectangle19:hover{
+    width: 40%;
+    height: 40%;
+    background-image:url(kubo9.jpg);
+    background-size: contain;
+    color:bisque;
+}
+
+.rectangle20:hover{
+    width: 40%;
+    height: 40%;
+    background-image:url(kubo10.jpg);
+    background-size: contain;
+    color:bisque;
+}
+
+.alignment-rectangle{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    padding:4%;
+    margin:3%;
+    cursor: pointer;
+}
+
+.alignment-rectangle2{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    padding:4%;
+    margin:3%;
+    cursor: pointer;
+}
+
+.alignment-rectangle3{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    padding:4%;
+    margin:3%;
+    cursor: pointer;
+}
+
+.alignment-rectangle4{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    padding:4%;
+    margin:3%;
+    cursor: pointer;
+}

@@ -1,0 +1,52 @@
+/*for smartphone*/
+@media (max-width:680px), screen and (orientation:portrait) {
+    h1 { 
+        background-color:bisque;
+    }
+    .alignment{
+        display:flex;
+        flex-direction: row;
+
+    }
+}
+
+/*for tablet*/
+@media (min-width:720px), screen and (orientation:portrait) {
+    h1 {
+        background-color: cornflowerblue;
+    }
+}
+
+/*for large tablet*/
+@media (min-width:920px), screen and (orientation:portrait) {
+    h1 {
+        background-color: grey;
+    }
+}
+
+/*for large laptop*/
+@media (min-width:1080px), screen and (orientation:portrait) {
+    h1 {
+        background-color: lightskyblue;
+    }
+}
+
+h1{
+    font-weight : bold;
+    padding: 5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    background-color: palevioletred;
+    width: 5rem;
+    height: 5rem;
+    border: 1px solid black;
+    justify-content: space-evenly;
+    padding: 1.5%;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: ;
+    margin-bottom: 
+}
